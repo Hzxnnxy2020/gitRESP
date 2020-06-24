@@ -11,7 +11,7 @@ public class userdao {
 	
 	
 	public int getId() {
-		return id+200;
+		return id+20;
 	}
 	public void setId(int id) {
 		this.id = id;
