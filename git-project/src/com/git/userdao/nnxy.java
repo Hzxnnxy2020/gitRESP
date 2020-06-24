@@ -8,7 +8,7 @@ public String toString() {
 	return "nnxy [id=" + id + ", name=" + name + "]";
 }
 public int getId() {
-	return id;
+	return id =0;
 }
 public void setId(int id) {
 	this.id = id;
